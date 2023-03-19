@@ -1,4 +1,4 @@
-package poo_exemplo;
+package Aoop_exemplo;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+package Aoop_exemplo;
+
 import java.util.Scanner;
 
 public class Main {

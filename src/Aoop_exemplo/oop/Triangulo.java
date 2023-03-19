@@ -1,4 +1,4 @@
-package poo_exemplo.oop;
+package Aoop_exemplo.oop;
 
 public class Triangulo {
     public double a;
